@@ -1,2 +1,0 @@
-# Sreekant
-Sreekant Repository
